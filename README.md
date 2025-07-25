@@ -50,13 +50,20 @@ Bu proje ile amaçlanan, kişisel zaman ve hedef yönetimini dijital ortamda pra
 ---
 
 ##  Ekran Görüntüleri
+<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151327" src="https://github.com/user-attachments/assets/43b16340-1b01-41d4-b8fb-b5f469047b6d" />
 
-<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151404" src="https://github.com/user-attachments/assets/35e7e988-1157-450c-8e2a-80fb6db4cd09" />
-<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151348" src="https://github.com/user-attachments/assets/a9019749-54df-4d07-bf37-fb12320168aa" />
-<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151327" src="https://github.com/user-attachments/assets/03c37d8b-566e-4671-875a-dfc2d7ed4d71" />
-<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 160019" src="https://github.com/user-attachments/assets/c20e2b6a-fff2-44b2-bd96-1a27cf7b7dc5" />
-<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 160012" src="https://github.com/user-attachments/assets/d44f94dd-7c7a-4da3-8697-960269387eac" />
-<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151411" src="https://github.com/user-attachments/assets/67727bbd-731d-49bd-9699-018871747941" />
+<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151348" src="https://github.com/user-attachments/assets/562cbe57-94f9-40f9-8e71-76cb001b728e" />
+
+<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 160012" src="https://github.com/user-attachments/assets/e8b25ffc-1d51-4551-926b-80015cd0b81a" />
+
+
+<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 160019" src="https://github.com/user-attachments/assets/bc47e379-7022-42eb-86ed-dd0599da281b" />
+
+
+<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151404" src="https://github.com/user-attachments/assets/8320a646-230e-464d-aad7-f3ee773c16af" />
+
+<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151411" src="https://github.com/user-attachments/assets/3b67af03-0921-4df2-a94a-84de7f8480e0" />
+
 
 
 Hazırlayan:  
