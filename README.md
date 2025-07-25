@@ -51,12 +51,12 @@ Bu proje ile amaçlanan, kişisel zaman ve hedef yönetimini dijital ortamda pra
 
 ## Swagger Ekran Görüntüsü
 <img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151327" src="https://github.com/user-attachments/assets/c35a1b5b-6cb3-4b1c-90bb-c6a15920efd9" />
-<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151411" src="https://github.com/user-attachments/assets/223aa298-0c38-4cbe-8d9e-2365522db1af" />
-<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151404" src="https://github.com/user-attachments/assets/6b40e11a-e58b-46a1-b282-7a8f770c2484" />
 <img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151348" src="https://github.com/user-attachments/assets/7b7db840-106a-4dba-beb4-0e85b419bd88" />
+<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151404" src="https://github.com/user-attachments/assets/6b40e11a-e58b-46a1-b282-7a8f770c2484" />
+<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151411" src="https://github.com/user-attachments/assets/223aa298-0c38-4cbe-8d9e-2365522db1af" />
 
 ---
 
 Hazırlayan:  
-## Nikzada Besmullah
+## Besmullah Nikzada
 
