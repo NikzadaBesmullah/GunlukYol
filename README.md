@@ -57,15 +57,6 @@ Bu proje ile amaçlanan, kişisel zaman ve hedef yönetimini dijital ortamda pra
 
 ---
 
-## Notlar
-
-- Veritabanı dosyası (`gorevler.db`) proje ile birlikte gelir.
-- Her kullanıcı kendi görev ve hedeflerini görebilir.
-
----
-
-
-
 Hazırlayan:  
-Nikzada Besmullah
+## Nikzada Besmullah
 
