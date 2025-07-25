@@ -1,12 +1,18 @@
 # GünlükYol - Görev ve Hedef Takip Uygulaması
 
-Bu proje, kullanıcıların günlük görevlerini ve kısa/orta/uzun vadeli hedeflerini yönetebileceği bir web uygulamasıdır.  
-Backend .NET 9 Web API, frontend ise React ile geliştirilmiştir.
+Bu proje, kullanıcıların günlük görevlerini ve kısa, orta, uzun vadeli hedeflerini kolayca planlayıp takip edebilmeleri için geliştirilmiş modern bir web uygulamasıdır.
+Kullanıcılar, kendi hesaplarını oluşturarak sisteme giriş yapabilir, günlük yapılacak işlerini ve kişisel hedeflerini ekleyebilir, düzenleyebilir ve tamamlananları işaretleyebilirler.
+Her kullanıcı yalnızca kendi görev ve hedeflerini görebilir ve yönetebilir; böylece kişisel veri güvenliği sağlanır.
 
 ---
 
 ## Proje Açıklaması
-Kullanıcılar kayıt olabilir, giriş yapabilir, görev ve hedef ekleyip düzenleyebilir. Her kullanıcı sadece kendi görev ve hedeflerini görebilir. JWT ile güvenli giriş/çıkış sağlanır. Swagger arayüzü ile API uç noktaları kolayca test edilebilir.
+Bu uygulama sayesinde kullanıcılar, sisteme kayıt olarak kendi hesaplarını oluşturabilir ve güvenli bir şekilde giriş yapabilirler. Giriş yaptıktan sonra, günlük görevlerini ve kısa, orta, uzun vadeli hedeflerini kolayca ekleyebilir, düzenleyebilir ve tamamlananları işaretleyebilirler. Her kullanıcı yalnızca kendi görev ve hedeflerini görebilir ve yönetebilir; böylece kişisel verilerin gizliliği korunur.
+Uygulamada güvenlik için JWT (JSON Web Token) tabanlı kimlik doğrulama sistemi kullanılmıştır. Bu sayede kullanıcıların oturumları güvenli bir şekilde yönetilir. Ayrıca, geliştiriciler ve test edenler için API uç noktaları Swagger arayüzü ile görsel olarak sunulmakta ve kolayca test edilebilmektedir.
+Uygulamanın arka tarafı (backend), güçlü ve güvenli bir altyapı sunan .NET 9 Web API ile geliştirilmiştir.
+Veri saklama için SQLite veritabanı kullanılmıştır ve tüm kullanıcı işlemleri JWT tabanlı kimlik doğrulama ile korunmaktadır.
+Ön yüz (frontend) ise React ve Material UI ile hazırlanmış olup, kullanıcı dostu ve modern bir arayüz sunar.
+Bu proje ile amaçlanan, kişisel zaman ve hedef yönetimini dijital ortamda pratik, güvenli ve erişilebilir hale getirmektir.
 
 ---
 
