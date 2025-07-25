@@ -50,14 +50,14 @@ Bu proje ile amaçlanan, kişisel zaman ve hedef yönetimini dijital ortamda pra
 ---
 
 ##  Ekran Görüntüleri
-<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 160019" src="https://github.com/user-attachments/assets/1be72d78-c4c4-4cd0-be6e-bdaa32e25ef2" />
-<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 160012" src="https://github.com/user-attachments/assets/2ff400a1-b260-420e-acab-210cbe2d02c0" />
-<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151327" src="https://github.com/user-attachments/assets/c35a1b5b-6cb3-4b1c-90bb-c6a15920efd9" />
-<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151348" src="https://github.com/user-attachments/assets/7b7db840-106a-4dba-beb4-0e85b419bd88" />
-<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151404" src="https://github.com/user-attachments/assets/6b40e11a-e58b-46a1-b282-7a8f770c2484" />
-<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151411" src="https://github.com/user-attachments/assets/223aa298-0c38-4cbe-8d9e-2365522db1af" />
 
----
+<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151404" src="https://github.com/user-attachments/assets/35e7e988-1157-450c-8e2a-80fb6db4cd09" />
+<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151348" src="https://github.com/user-attachments/assets/a9019749-54df-4d07-bf37-fb12320168aa" />
+<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151327" src="https://github.com/user-attachments/assets/03c37d8b-566e-4671-875a-dfc2d7ed4d71" />
+<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 160019" src="https://github.com/user-attachments/assets/c20e2b6a-fff2-44b2-bd96-1a27cf7b7dc5" />
+<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 160012" src="https://github.com/user-attachments/assets/d44f94dd-7c7a-4da3-8697-960269387eac" />
+<img width="1920" height="1020" alt="Ekran görüntüsü 2025-07-25 151411" src="https://github.com/user-attachments/assets/67727bbd-731d-49bd-9699-018871747941" />
+
 
 Hazırlayan:  
 ## Besmullah Nikzada
